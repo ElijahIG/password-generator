@@ -7,3 +7,5 @@ Prompt will return user to start if they choose a amount lower than 8 or higher 
 The user will be prompted 4 times asking if they would like to include capital letters, lowercase letters, numbers, or special characters.
 
 The user will be shown a password on screen that matches all criteria.
+
+![password generator](images/Capture.PNG)
